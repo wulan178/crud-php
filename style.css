@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    cursor: default;
+}
+
+body {
+    background: linear-gradient(350deg,#00adb9,#c5e1e2,#e6e6e6ec);
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    text-shadow: 1px 0 1px white;
+    font-weight: 800;
+}
+
+.btn-cari {
+    display: flex; 
+    align-items:center; 
+    margin-left:5px;
+    background-color:#F27F0C;
+    color: white;
+    border-color: rgb(114, 114, 114);
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.form-control {
+    font-size: 13px;
+}
+
+.title-tambah {
+    background-color: #429EBD;
+    text-shadow: 1px 1px 2px black;
+    font-weight: 800;
+}
+
+.title-data {
+    background-color: #053F5C;
+    text-shadow: 1px 1px 2px black;
+    font-weight: 800;
+}
+
+.th-data {
+    font-size: 17px;
+    font-weight: 800;
+}
+
+label,option {
+    font-size: 14px;
+}
+
+#prodi {
+    font-size: 14px;
+}
+
+td {
+    font-weight: 700;
+}
+
+.alert {
+    font-size: 15px;
+}
+
